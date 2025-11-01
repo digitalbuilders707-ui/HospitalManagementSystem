@@ -9,7 +9,7 @@ A comprehensive Hospital Management System built with Java/JEE as part of the VT
 - **Billing System**: Generate bills for treatments and services.
 - **Database Integration**: Robust backend powered by **MySQL**.
 - **Responsive Front-End**: Intuitive user interface with **HTML**, **CSS**, **Bootstrap**, and **JavaScript**.
-
+- 
 ---
 
 ## 🛠️ Tech Stack
